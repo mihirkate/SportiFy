@@ -70,8 +70,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
+![Screenshot 2024-02-05 223003](https://github.com/mihirkate/SportiFy/assets/97501267/71b0cbef-2873-4313-8ba1-3172b2bc83aa)
+
 
 ![Screenshot 2024-02-05 223051](https://github.com/mihirkate/SportiFy/assets/97501267/c93fe15b-da9a-4630-abc4-beb4bd6ecd0d)
-![Screenshot 2024-02-05 223003](https://github.com/mihirkate/SportiFy/assets/97501267/71b0cbef-2873-4313-8ba1-3172b2bc83aa)
+
 ![Screenshot 2024-02-05 223019](https://github.com/mihirkate/SportiFy/assets/97501267/e1b47d15-4adb-43d0-b009-5d7557a25d74)
+
+
 ![Screenshot 2024-02-05 223034](https://github.com/mihirkate/SportiFy/assets/97501267/74114e52-e88f-4b21-9920-a4aad4a8a036)
